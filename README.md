@@ -78,7 +78,7 @@ hopefully, **make a difference for someone**.
 
 ### 🐍 Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/MathConceicion/MathConceicion/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Dev-KIRITO/Dev-KIRITO/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
