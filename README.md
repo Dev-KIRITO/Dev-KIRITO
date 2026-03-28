@@ -5,14 +5,14 @@
 <br>
 
 <!-- Badges de status -->
-<a href="https://github.com/MathConceicion">
-  <img src="https://img.shields.io/github/followers/MathConceicion?logo=github&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+<a href="https://github.com/Dev-KIRITO">
+  <img src="https://img.shields.io/github/followers/Dev-KIRITO?logo=github&style=for-the-badge&color=302b63&labelColor=0f0c29" />
 </a>
-<a href="https://github.com/MathConceicion">
-  <img src="https://img.shields.io/github/stars/MathConceicion?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" />
+<a href="https://github.com/Dev-KIRITO">
+  <img src="https://img.shields.io/github/stars/Dev-KIRITO?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29" />
 </a>
-<a href="https://github.com/MathConceicion">
-  <img src="https://komarev.com/ghpvc/?username=MathConceicion&style=for-the-badge&color=302b63" />
+<a href="https://github.com/Dev-KIRITO">
+  <img src="https://komarev.com/ghpvc/?username=Dev-KIRITO&style=for-the-badge&color=302b63" />
 </a>
 
 ---
@@ -62,7 +62,7 @@ hopefully, **make a difference for someone**.
 
 ### 📬 Contato &nbsp;·&nbsp; Contact
 
-<a href="mailto:matheusdelaconceicion@gmail.com">
+<a href="mailto:leo.henrique.0018@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" />
 </a>
 &nbsp;
@@ -70,7 +70,7 @@ hopefully, **make a difference for someone**.
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="28" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/theuconceicion">
+<a href="https://www.instagram.com/leohx._2/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
 </a>
 
