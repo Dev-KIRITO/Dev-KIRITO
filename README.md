@@ -66,7 +66,7 @@ hopefully, **make a difference for someone**.
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="28" />
 </a>
 &nbsp;
-<a href="https://discord.gg/645666775647911936">
+<a href="https://discord.gg/1487515600380231720">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=5865F2&logoColor=white&style=for-the-badge" height="28" />
 </a>
 &nbsp;
