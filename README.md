@@ -14,6 +14,9 @@
 <a href="https://github.com/Dev-KIRITO">
   <img src="https://komarev.com/ghpvc/?username=Dev-KIRITO&style=for-the-badge&color=302b63" />
 </a>
+<a href="https://github.com/Dev-KIRITO">
+  <img src="https://www.linkedin.com/in/leonardo-henrique-4585313b5/?isSelfProfile=true" />
+</a>
 
 ---
 
